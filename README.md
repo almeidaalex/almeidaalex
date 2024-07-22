@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Alex, an experienced Tech Lead and Software Engineer with over 10 years of expertise in financial, agricultural, and logistic industries, specializing in clean code, automated testing, and agile project management.
 
 <!--
 **almeidaalex/almeidaalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
